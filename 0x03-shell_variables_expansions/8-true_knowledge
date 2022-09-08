@@ -1,0 +1,2 @@
+#!/bin/bASH
+echo $((128+$TRUEKNOWLEDGE))
